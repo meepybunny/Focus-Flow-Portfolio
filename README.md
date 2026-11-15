@@ -1,9 +1,7 @@
 # Focus-Flow-Portfolio
 A productivity web application developed as part of a CI/CD team project.
 
-# Focus Flow — Study Productivity Web Application
 
-**Singapore Polytechnic | CI/CD Team Project | Team ByteMe**
 
 ## Project Overview
 
